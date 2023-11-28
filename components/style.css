@@ -1,0 +1,21 @@
+ @import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Philosopher:wght@400;700&display=swap');
+
+ @import 'tailwindcss/base';
+ @import 'tailwindcss/components';
+ @import 'tailwindcss/utilities';
+
+ h2,p{
+font-family: 'Philosopher', sans-serif;
+ }
+
+ span,button,ul{
+  font-family: 'Fira Sans', sans-serif;
+ }
+
+
+
+
+
+
+ 
+
